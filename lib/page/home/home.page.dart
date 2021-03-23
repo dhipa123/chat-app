@@ -23,7 +23,7 @@ class Home extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(Icons.chat_bubble_outline),
+        child: Icon(Icons.chat_bubble_outline_sharp),
       ),
     );
   }
